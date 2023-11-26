@@ -1,0 +1,68 @@
+li {
+color:blue;
+}
+body {
+
+ background:url("images/menu_background.jpg") no-repeat ;
+ background-attachment: fixed;
+  background-size: cover;
+  color:white;
+  margin-left:0px;
+  font-family:Arial;
+}
+.small_img {
+margin-top:25px;
+margin-left:35px;
+}
+
+h1 {
+background-color:#DD7835 ;
+display:inline;
+padding: 5px 5px ;
+}
+.title_menu {
+margin-top:45px;
+margin-bottom:50px;
+
+}
+.main_div {
+margin-left:30px;
+
+}
+.each_item{
+margin-top:30px;
+}
+.each_title {
+ font-size:20px;
+ font-weight:bold;
+ width:250px;
+display:inline-block;
+}
+.each_title_price {
+ color:#DD7835;
+ font-size:20px;
+
+ width:100px;
+ display:inline-block;
+ text-align:right;
+}
+.each_title_ing {
+color:#C8C8C8;
+font-size:15px;
+display:block;
+margin-top:4px;
+width:300px;
+
+
+}
+
+.each_title_veg {
+background-color:#DD7835;
+color:black;
+font-size:12px;
+display:inline-block;
+margin-top:4px;
+border-radius:6px;
+padding:4px 6px;
+font-weight:bold;
+}

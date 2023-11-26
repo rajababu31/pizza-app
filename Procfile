@@ -1,0 +1,1 @@
+web: gunicorn pizzamama_d.wsgi
