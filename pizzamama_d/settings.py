@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-rc=ljj6o@6sue4sq1ezmd_6bdq4dkl_6&*tdc!et0422i31q0s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://www.mamapizzaitaliana.com/']
 
 
 # Application definition
